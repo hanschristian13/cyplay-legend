@@ -66,7 +66,7 @@ export const __GAME_LIST__ = [
       },
       {
         key: 'olympus_risen',
-        url: 'https://frontend.integration-api.net/prototype/slot-game/zeus-legacy/v0.1/?token=ecf4ef5a459942aeb479680f577719b50d45a61be3f52ffa3dfe4f0cdd41fbf4',
+        url: 'https://levelind.slotengine.xyz/olympus-risen/v0.0.9/?token=0eea78a093471a62deb54a332cbe4939fcc72f484dd87c8f429e93f0fda45a97',
         volatility: 'medium',
         rtp: 96.68,
         maxwin: 11237,
@@ -74,7 +74,7 @@ export const __GAME_LIST__ = [
       },
       {
         key: 'zeus_legacy',
-        url: 'https://levelind.slotengine.xyz/olympus-risen/v0.0.9/?token=0eea78a093471a62deb54a332cbe4939fcc72f484dd87c8f429e93f0fda45a97',
+        url: 'https://frontend.integration-api.net/prototype/slot-game/zeus-legacy/v0.1/?token=ecf4ef5a459942aeb479680f577719b50d45a61be3f52ffa3dfe4f0cdd41fbf4',
         volatility: 'medium',
         rtp: 95.51,
         maxwin: 11237,

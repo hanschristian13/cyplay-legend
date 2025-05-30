@@ -75,13 +75,13 @@ import GameCard from '@/components/game-card';
 function MainComponent() {
   const allCategories: { [key: string]: any } = {
     legends: 'Legends',
-    blockbuster: 'Blockbuster',
+    // blockbuster: 'Blockbuster',
     // casual: 'Casual',
     // empire: 'Empire',
-    indo_local: 'Indo Local',
-    supercell: 'SuperCell',
-    reskin: 'Reskin',
-    campaign: 'Campaign',
+    // indo_local: 'Indo Local',
+    // supercell: 'SuperCell',
+    // reskin: 'Reskin',
+    // campaign: 'Campaign',
     // coming_soon: 'Coming Soon',
   };
 
