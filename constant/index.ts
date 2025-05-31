@@ -58,7 +58,7 @@ export const __GAME_LIST__ = [
     games: [
       {
         key: 'athena_vs_ares',
-        url: 'https://frontend.integration-api.net/prototype/slot-game/athena-vs-ares/v1.10/?token=3e3e83[…]bcad9a67e956d77872dbbe589084888f20cbe0671dc4170b697834',
+        url: 'https://frontend.integration-api.net/prototype/slot-game/athena-vs-ares/v1.10/?token=3e3e83ee3bbcad9a67e956d77872dbbe589084888f20cbe0671dc4170b697834',
         volatility: 'medium',
         rtp: 95.39,
         maxwin: 4000,
@@ -66,7 +66,7 @@ export const __GAME_LIST__ = [
       },
       {
         key: 'olympus_risen',
-        url: 'https://levelind.slotengine.xyz/olympus-risen/v0.0.9/?token=0eea78a093471a62deb54a332cbe4939fcc72f484dd87c8f429e93f0fda45a97',
+        url: 'https://levelind.slotengine.xyz/olympus-risen/v0.1.0/?token=0eea78a093471a62deb54a332cbe4939fcc72f484dd87c8f429e93f0fda45a97',
         volatility: 'medium',
         rtp: 96.68,
         maxwin: 11237,
